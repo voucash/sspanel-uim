@@ -1,4 +1,4 @@
-# V2Board接入VouCash
+# SSPanel-UIM接入VouCash
 SSPanel-UIM VouCash支付插件 支持USDT，关于 [VouCash](https://voucash.com/cn/about)
 
 ### 设置
