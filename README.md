@@ -5,7 +5,7 @@ SSPanel-UIM VouCash支付插件 支持USDT，关于 [VouCash](https://voucash.co
 
 1. 下载 SDK
 
-下载src/Services/VouCash.php，并上传到src/Services/目录中  
+下载src/Services/Gateway/VouCash.php，并上传到src/Gateway/Services/目录中  
 下载resources/views/tabler/gateway/voucash.tpl，并上传到面板resources/views/tabler/gateway/目录中  
 
 2. 在网站根目录执行
