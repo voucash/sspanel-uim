@@ -19,7 +19,7 @@ php composer update
 
 ### 兑现
 1. 支付成功后，新的代金券将保存到`/tmp/voucher.txt`中，打开该文件
-2. 复制代金券到 [VouCash提现](https://voucash.com/cn/redeem){:target="_blank"}
+2. 复制代金券到 [VouCash提现](https://voucash.com/cn/redeem)
 
 ## 有问题和合作可以小飞机联系我们
  - telegram：@voucash
